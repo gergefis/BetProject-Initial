@@ -1,0 +1,14 @@
+------------------Results-------------------
+####################################
+Customer name: Tony Di Naples
+Customer money paid: 104
+Customer gains: 12.4
+####################################
+Customer name: Babis Sougias
+Customer money paid: 1000
+Customer gains: 1200.0
+####################################
+Customer name: Dimitris Gergefis
+Customer money paid: 2000
+Customer gains: 2600.0
+--------------End-of-Results----------------
